@@ -21,5 +21,5 @@ phoronix-test-suite run pts/fio
 Results of pts/fio on Ubuntu 20.04 inside VM inside baremetal EVE:
 [openbenchmarking.org](https://openbenchmarking.org/result/2010291-FI-TESTEVE8396)
 
-You can find `iotop  -abtqk |head` output inside [0.0.0-master-dda8b2b6-kvm](0.0.0-master-dda8b2b6-kvm)
+You can find `iotop  -abtqk |head` output inside [0.0.0-master-dda8b2b6-kvm/iotop](0.0.0-master-dda8b2b6-kvm/iotop)
 directory before test, during read test and during write test.

@@ -3,8 +3,8 @@
 Results of pts/fio on Ubuntu 20.04:
 [openbenchmarking.org](https://openbenchmarking.org/result/2010299-FI-TESTBARE692)
 
-You can find `iotop  -abtqk |head` output inside directory [before](before.txt) test,
-during [read](read.txt) test and during [write](write.txt) test.
+You can find `iotop  -abtqk |head` output inside [iotop](iotop) directory [before](iotop/before.txt) test,
+during [read](iotop/read.txt) test and during [write](iotop/write.txt) test.
 
 To run benchmark:
 
