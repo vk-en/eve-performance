@@ -1,0 +1,10 @@
+14:54:50 Total DISK READ:         0.00 K/s | Total DISK WRITE:     14254.98 K/s
+14:54:50 Current DISK READ:       0.00 K/s | Current DISK WRITE:       0.00 K/s
+    TIME    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+14:54:50   36443 be/4 giggsoff      0.00 K    256.00 K  0.00 %  0.00 % ./qemu-system-x86_64 -nographic -display none -serial telnet:localhost:7777,server,wait -nodefaults -no-user-config -readconfig /home/giggsoff/local/qemu.conf
+14:54:50   36444 be/4 giggsoff      0.00 K    256.00 K  0.00 %  0.00 % ./qemu-system-x86_64 -nographic -display none -serial telnet:localhost:7777,server,wait -nodefaults -no-user-config -readconfig /home/giggsoff/local/qemu.conf
+14:54:50   36445 be/4 giggsoff      0.00 K    256.00 K  0.00 %  0.00 % ./qemu-system-x86_64 -nographic -display none -serial telnet:localhost:7777,server,wait -nodefaults -no-user-config -readconfig /home/giggsoff/local/qemu.conf
+14:54:50   36447 be/4 giggsoff      0.00 K    256.00 K  0.00 %  0.00 % ./qemu-system-x86_64 -nographic -display none -serial telnet:localhost:7777,server,wait -nodefaults -no-user-config -readconfig /home/giggsoff/local/qemu.conf
+14:54:50   36450 be/4 giggsoff      0.00 K    256.00 K  0.00 %  0.00 % ./qemu-system-x86_64 -nographic -display none -serial telnet:localhost:7777,server,wait -nodefaults -no-user-config -readconfig /home/giggsoff/local/qemu.conf
+14:54:50       1 be/4 root          0.00 K      0.00 K  0.00 %  0.00 % init splash
+14:54:50       2 be/4 root          0.00 K      0.00 K  0.00 %  0.00 % [kthreadd]

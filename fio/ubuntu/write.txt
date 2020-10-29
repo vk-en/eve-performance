@@ -1,0 +1,10 @@
+15:13:36 Total DISK READ:         0.00 K/s | Total DISK WRITE:     26397.12 K/s
+15:13:36 Current DISK READ:       0.00 K/s | Current DISK WRITE:   26289.82 K/s
+    TIME    TID  PRIO  USER     DISK READ  DISK WRITE  SWAPIN      IO    COMMAND
+15:13:36    2897 be/4 giggsoff      0.00 K    984.00 K  0.00 % 29.93 % ./fio test.fio
+15:13:36       1 be/4 root          0.00 K      0.00 K  0.00 %  0.00 % init splash
+15:13:36       2 be/4 root          0.00 K      0.00 K  0.00 %  0.00 % [kthreadd]
+15:13:36       3 be/0 root          0.00 K      0.00 K  0.00 %  0.00 % [rcu_gp]
+15:13:36       4 be/0 root          0.00 K      0.00 K  0.00 %  0.00 % [rcu_par_gp]
+15:13:36       6 be/0 root          0.00 K      0.00 K  0.00 %  0.00 % [kworker/0:0H-kblockd]
+15:13:36       7 be/4 root          0.00 K      0.00 K  0.00 %  0.00 % [kworker/0:1-mm_percpu_wq]

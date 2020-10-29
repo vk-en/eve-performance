@@ -1,0 +1,107 @@
+test
+KVM QEMU testing on Ubuntu 20.04 via the Phoronix Test Suite.
+
+ ,,"testeveqcow2"
+Processor,,QEMU Virtual 2.5+ (2 Cores)
+Motherboard,,QEMU Standard PC (Q35 + ICH9 2009) (rel-1.13.0-0-gf21b5a4aeb02-prebuilt.qemu.org BIOS)
+Chipset,,Intel 82G33/G31/P35/P31 + ICH9
+Memory,,934MB
+Disk,,6GB
+Graphics,,Cirrus Logic GD 5446
+Network,,Red Hat Virtio device
+OS,,Ubuntu 20.04
+Kernel,,5.4.0-52-generic (x86_64)
+Compiler,,GCC 9.3.0
+File-System,,ext4
+System Layer,,KVM QEMU
+
+ ,,"testeveqcow2"
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (MB/s)",HIB,165
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (MB/s)",HIB,180
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (IOPS)",HIB,89
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (MB/s)",HIB,5.862
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (IOPS)",HIB,1465
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory (MB/s)",HIB,198
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory (IOPS)",HIB,49
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (IOPS)",HIB,144
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (MB/s)",HIB,7.818
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (IOPS)",HIB,977
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8MB - Disk Target: Default Test Directory (MB/s)",HIB,213
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8MB - Disk Target: Default Test Directory (IOPS)",HIB,26
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (MB/s)",HIB,12.6
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (IOPS)",HIB,802
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (MB/s)",HIB,24.9
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (IOPS)",HIB,797
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (MB/s)",HIB,46.9
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (IOPS)",HIB,751
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (MB/s)",HIB,114
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (IOPS)",HIB,104
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (MB/s)",HIB,116
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (IOPS)",HIB,58
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (MB/s)",HIB,4.946
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (IOPS)",HIB,1236
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (MB/s)",HIB,9.209
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (IOPS)",HIB,1151
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (MB/s)",HIB,70.9
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (IOPS)",HIB,567
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (MB/s)",HIB,98.8
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (IOPS)",HIB,395
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (MB/s)",HIB,132
+"Flexible IO Tester - Type: Random Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (IOPS)",HIB,265
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (MB/s)",HIB,16.9
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (IOPS)",HIB,1081
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (MB/s)",HIB,33.5
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (IOPS)",HIB,1071
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (MB/s)",HIB,57.0
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (IOPS)",HIB,911
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (MB/s)",HIB,78.8
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (IOPS)",HIB,630
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (MB/s)",HIB,95.0
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (IOPS)",HIB,380
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (MB/s)",HIB,127
+"Flexible IO Tester - Type: Random Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (IOPS)",HIB,253
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (MB/s)",HIB,154
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (IOPS)",HIB,152
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (MB/s)",HIB,181
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (IOPS)",HIB,90
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (MB/s)",HIB,6.425
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (IOPS)",HIB,1606
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory (MB/s)",HIB,206
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4MB - Disk Target: Default Test Directory (IOPS)",HIB,51
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (MB/s)",HIB,11.0
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (IOPS)",HIB,1447
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8MB - Disk Target: Default Test Directory (MB/s)",HIB,228
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8MB - Disk Target: Default Test Directory (IOPS)",HIB,28
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (MB/s)",HIB,21.4
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (IOPS)",HIB,1369
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (MB/s)",HIB,34.3
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (IOPS)",HIB,1097
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (MB/s)",HIB,65.7
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (IOPS)",HIB,1050
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (MB/s)",HIB,134
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 1MB - Disk Target: Default Test Directory (IOPS)",HIB,134
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (MB/s)",HIB,144
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 2MB - Disk Target: Default Test Directory (IOPS)",HIB,72
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (MB/s)",HIB,5.456
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 4KB - Disk Target: Default Test Directory (IOPS)",HIB,1363
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (MB/s)",HIB,9.906
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 8KB - Disk Target: Default Test Directory (IOPS)",HIB,1256
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (MB/s)",HIB,93.5
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (IOPS)",HIB,748
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (MB/s)",HIB,128
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (IOPS)",HIB,511
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (MB/s)",HIB,148
+"Flexible IO Tester - Type: Sequential Read - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (IOPS)",HIB,296
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (MB/s)",HIB,20.4
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 16KB - Disk Target: Default Test Directory (IOPS)",HIB,1326
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (MB/s)",HIB,37.4
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 32KB - Disk Target: Default Test Directory (IOPS)",HIB,1198
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (MB/s)",HIB,62.4
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 64KB - Disk Target: Default Test Directory (IOPS)",HIB,999
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (MB/s)",HIB,93.9
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 128KB - Disk Target: Default Test Directory (IOPS)",HIB,753
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (MB/s)",HIB,118
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 256KB - Disk Target: Default Test Directory (IOPS)",HIB,472
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (MB/s)",HIB,132
+"Flexible IO Tester - Type: Sequential Write - Engine: Sync - Buffered: No - Direct: Yes - Block Size: 512KB - Disk Target: Default Test Directory (IOPS)",HIB,264
+
