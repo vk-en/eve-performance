@@ -1,4 +1,4 @@
-# Results for fio on Ubuntu 20.04 VM inside Ubuntu 20.04 host
+# Results for fio on Ubuntu 20.10 VM inside Ubuntu 20.04 host
 
 Results of pts/fio on Ubuntu 20.04 inside VM on Ubuntu 20.04 host:
 [openbenchmarking.org](https://openbenchmarking.org/result/2010293-FI-TESTUBUNT76)
@@ -7,7 +7,7 @@ You can find `iotop  -abtqk |head` output inside [iotop](iotop) directory [befor
 during [read](iotop/read.txt) test and during [write](iotop/write.txt) test.
 
 VM was started with provided [config](qemu.conf)
-with [image](https://cloud-images.ubuntu.com/releases/focal/release-20200921.1/ubuntu-20.04-server-cloudimg-amd64.img).
+with [image](https://cloud-images.ubuntu.com/releases/groovy/release-20201022.1/ubuntu-20.10-server-cloudimg-amd64.img).
 
 Inside VM:
 
