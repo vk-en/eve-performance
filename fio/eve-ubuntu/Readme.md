@@ -9,9 +9,10 @@ To deploy VM:
 Inside EVE:
 
 ```console
+apk add openssh-client
 echo "http://dl-cdn.alpinelinux.org/alpine/edge/community" >> /etc/apk/repositories
 echo "http://dl-cdn.alpinelinux.org/alpine/edge/main" >> /etc/apk/repositories
-apk --update add perf sysstat libelf
+apk --update add perf sysstat libelf perl
 sh -c "echo -1 >/proc/sys/kernel/perf_event_paranoid"
 sh -c "echo 0 > /proc/sys/kernel/kptr_restrict"
 ```
