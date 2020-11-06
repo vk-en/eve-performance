@@ -47,6 +47,13 @@ Results of pts/fio on Ubuntu 20.10 inside VM inside baremetal EVE:
 
 You can see [perf](0.0.0-master-dda8b2b6-kvm/perf) and [sar](0.0.0-master-dda8b2b6-kvm/sar) results during tests.
 
+## 0.0.0-storage-2be4f6de-new
+
+Results of pts/fio on Ubuntu 20.10 inside VM inside baremetal EVE:
+[openbenchmarking.org](https://openbenchmarking.org/result/2011067-FI-TESTNEW2275)
+
+You can see [perf](0.0.0-storage-2be4f6de-new/perf) and [sar](0.0.0-storage-2be4f6de-new/sar) results during tests.
+
 ## [expand-limit](https://github.com/itmo-eve/eve/commit/3d09c3990353357351019ef7f653fdf885485419)
 
 Results of pts/fio on Ubuntu 20.10 inside VM inside baremetal EVE:
