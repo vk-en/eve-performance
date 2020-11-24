@@ -1,0 +1,122 @@
+Linux 5.4.72-linuxkit (41bf4136-cd69-4741-9c3b-0b30ce635fae) 	11/24/20 	_x86_64_	(1 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.98    0.00   23.13    0.00   22.45   53.44
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.50    0.00   40.31    0.00   45.62   11.56
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.85    0.00   37.66    0.00   47.47   12.03
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.12    0.00   40.31    0.00   45.00   11.56
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           0.97    0.00   39.94    0.00   47.08   12.01
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.90    0.00   39.37    0.00   46.98   11.75
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.96    0.00   38.89    0.00   46.73   12.42
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.53    0.00   36.08    0.00   43.35   18.04
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.27    0.00   37.54    0.00   48.22   11.97
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.93    0.00   39.23    0.00   46.95   11.90
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.60    0.00   38.31    0.00   47.40   11.69
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.59    0.00   41.27    0.00   45.40   11.75
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.89    0.00   39.75    0.00   46.69   11.67
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.28    0.00   40.26    0.00   46.96   11.50
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           3.49    0.00   39.05    0.00   45.71   11.75
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.28    0.00   39.09    0.00   46.91   11.73
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.84    0.00   38.17    0.00   47.32   11.67
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.58    0.00   41.32    0.00   45.11   11.99
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           1.94    0.00   39.16    0.00   46.93   11.97
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           2.23    0.00   39.17    0.00   46.82   11.78
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+
+
