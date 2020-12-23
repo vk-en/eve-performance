@@ -1,0 +1,24 @@
+[global]
+ioengine=libaio
+size=1G
+direct=1
+runtime=60
+time_based=1
+group_reporting
+filename=/data/fio.test.file
+
+#SEQ READ 4k
+[read-4k-1]
+rw=read
+bs=4k
+iodepth=16
+numjobs=1
+stonewall
+
+[read-4k-2]
+rw=read
+bs=4k
+iodepth=16
+numjobs=8
+stonewall
+
