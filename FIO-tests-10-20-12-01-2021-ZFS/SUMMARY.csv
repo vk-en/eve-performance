@@ -1,0 +1,7 @@
+Group ID,Pattern,Block Size,IO Depth,Jobs,Mb/s
+0,read,4k,1,1,11.24
+1,read,64k,1,1,104.87
+2,read,1m,1,1,108.12
+3,write,4k,1,1,10.16
+4,write,64k,1,1,35.65
+5,write,1m,1,1,39.5
