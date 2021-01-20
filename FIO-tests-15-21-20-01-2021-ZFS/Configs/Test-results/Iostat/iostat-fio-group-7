@@ -1,0 +1,72 @@
+Linux 5.4.51-linuxkit (2878bbba-def3-4876-be2a-edbf224a4d76) 	01/20/21 	_x86_64_	(1 CPU)
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.24    0.00   62.77    3.60    6.95   19.44
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda           7765.69     30.34     0.19   0.00    0.60     4.00 1518.60     12.20    50.75   3.23    0.25     8.23    0.00      0.00     0.00   0.00    0.00     0.00    3.34  81.41
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          12.41    0.00   50.69    0.00    6.90   30.00
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 7911.00     30.90     0.00   0.00    0.11     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.25  79.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.50    0.00   69.73    0.00    9.18   12.59
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 10350.00     40.43     0.00   0.00    0.17     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.76  86.67
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           8.08    0.00   70.37    0.00    7.74   13.80
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 10203.00     39.86     0.00   0.00    0.18     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.86  87.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           7.74    0.00   68.73    0.00    9.29   14.24
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 9987.67     39.01     0.00   0.00    0.20     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.99  89.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+           9.60    0.00   70.59    0.00    8.67   11.15
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 11000.67     42.97     0.00   0.00    0.16     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.77  96.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          14.74    0.00   67.95    0.00    5.45   11.86
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 10730.67     41.92     0.00   0.00    0.16     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.81  96.67
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          14.15    0.00   68.81    0.00    6.43   10.61
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 10867.33     42.45     0.00   0.00    0.15     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.76  96.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          15.34    0.00   67.09    0.00    6.07   11.50
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 11010.33     43.01     0.00   0.00    0.16     4.00    0.00      0.00     0.00   0.00    0.00     0.00    0.71  96.00
+
+
+avg-cpu:  %user   %nice %system %iowait  %steal   %idle
+          14.79    0.00   65.27    0.00    4.82   15.11
+
+Device            r/s     rMB/s   rrqm/s  %rrqm r_await rareq-sz     w/s     wMB/s   wrqm/s  %wrqm w_await wareq-sz     d/s     dMB/s   drqm/s  %drqm d_await dareq-sz  aqu-sz  %util
+sda              0.00      0.00     0.00   0.00    0.00     0.00 9829.33     38.40     0.00   0.00    0.20     4.00    0.00      0.00     0.00   0.00    0.00     0.00    1.09  93.00
+
+
